@@ -1,0 +1,20 @@
+.cb-page-status-widget table {
+    width: 100%;
+    text-align: left;
+    border-spacing: 0;
+}
+.cb-page-status-widget table th {
+    border-bottom: 1px solid #ccc;
+}
+.cb-page-status-widget table td.title {
+    width: 44%;
+}
+.cb-page-status-widget table td {
+    padding: 5px 3px;
+}
+.cb-page-status-widget table tr td {
+    border-bottom: 1px solid #ccc;
+}
+.cb-page-status-widget tr.my-page {
+    background-color: #ffffcc;
+}
