@@ -2,4 +2,4 @@
 
 Wordpress plugin
 
-Displays a list pages with pending and draft statuses on the dashboard
+Displays a list of pages with pending and draft statuses on the dashboard
